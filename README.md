@@ -3,7 +3,7 @@ It's an attendance management system made with php Laravel. In which user(teache
 
 ------------------------------------
 
-NOTE: Unzip the .ZIP file of public folder in the same location.
+NOTE: Unzip the .ZIP file of public folder in the same public folder.
 
 Language : PHP
 
