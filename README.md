@@ -3,12 +3,16 @@ It's an attendance management system made with php Laravel. In which user(teache
 
 ------------------------------------
 
-
-
 Language : PHP
 
 Framework : Laravel 4.2
 
+------------------------------------
+
+# Screenshots
+
+Take Attendance page
+![alt AttendancePage](Screenshots/atdns.png)
 
 ------------------------------------
 
